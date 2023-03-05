@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E4EAEB;
+}
+
+h1 {
+    text-align: center;
+    color: #424B54;
+}
+
+h2 {
+    text-align: center;
+    color: #6B7A80;
+}
+
+table {
+    border: 3px solid #C9D4D6;
+    width: 600px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: #C9D4D6;
+}
+
+td {
+    background-color: #C9D4D6;
+}
